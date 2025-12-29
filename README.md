@@ -29,6 +29,7 @@ This repository contains the following files:
 * **`Dataset TD4.xlsx`**: Market microstructure data (Transactions, Volume, Signs) used for Bouchaud's Liquidity Model.
 * **`Dataset TD5.xlsx`**: High-frequency FX data (GBPEUR, SEKEUR, CADEUR) used for Fractal Analysis and Hurst Exponent estimation.
 * **`Project Instructions.pdf`**: The official project guidelines and problem statement.
+* **`Market_Risk_Report_Reynan_Roussel.pdf`**: The final report.
 
 
 ---
