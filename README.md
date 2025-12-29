@@ -19,7 +19,6 @@ This project explores advanced methods for quantifying Market Risk, moving beyon
 * `numpy`: Matrix calculations and math functions.
 * `pandas`: Data manipulation and time-series handling.
 * `matplotlib`: Data visualization and plotting.
-* `statsmodels`: OLS Regression for parameter estimation.
 
 ## 📂 File Structure
 
